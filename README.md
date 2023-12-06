@@ -6,3 +6,5 @@ sudo apt-get update
 sudo apt-get install texlive-full lyx texmaker texstudio 
 
 ```
+Windows
+For glossary install Perl https://strawberryperl.com/
